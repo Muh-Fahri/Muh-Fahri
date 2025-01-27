@@ -1,5 +1,8 @@
 ## Hi there👋 I'am Muh. Fahri
 
+![Blender Animation](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+
 - - 🌱 I’m currently an active student at "Hasanuddin University"
 - - 📫 How to reach me: "muhmmdfahri2003@gmail.com
 - - ⚡ Fun fact: "I really like the outdoors and sometimes go on climbing adventures"
