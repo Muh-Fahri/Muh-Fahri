@@ -1,18 +1,19 @@
 ## Hi there👋 I'am Muh. Fahri
 
+- - 🌱 I’m currently an active student at "Hasanuddin University"
+- - 📫 How to reach me: "nuhmmdfahri2003@gmail.com
+- - ⚡ Fun fact: "I really like the outdoors and sometimes go on climbing adventures"
+
 <!--
 **Muh-Fahri/Muh-Fahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently an active student at "Hasanuddin University"
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: "nuhmmdfahri2003@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: "I really like the outdoors and sometimes go on climbing adventures"
 -->
 
 ## Languages and Tools:
