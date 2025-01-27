@@ -1,7 +1,7 @@
 ## Hi there👋 I'am Muh. Fahri
 
 - - 🌱 I’m currently an active student at "Hasanuddin University"
-- - 📫 How to reach me: "nuhmmdfahri2003@gmail.com
+- - 📫 How to reach me: "muhmmdfahri2003@gmail.com
 - - ⚡ Fun fact: "I really like the outdoors and sometimes go on climbing adventures"
 
 <!--
@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt"Laravel" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50">
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/QGIS_logo_new.svg" alt="QGIS" width="50" height="50"> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  alt="Html5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  alt="Php" width="50" height="50" />
 </p>
