@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/QGIS_logo_new.svg" alt="QGIS" width="50" height="50">
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/QGIS_logo_new.svg" alt="QGIS" width="50" height="50"> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50">
 </p>
